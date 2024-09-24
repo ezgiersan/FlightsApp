@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Aalborg Airport",
+        "city": "Aalborg",
+        "country": "Danmark",
+        "iata": "AAL"
+    },
+    {
+        "name": "Aarhus Airport",
+        "city": "Aarhus",
+        "country": "Danmark",
+        "iata": "AAR"
+    },
+    {
+        "name": "Amsterdam Schiphol Airport",
+        "city": "Amsterdam",
+        "country": "Holland",
+        "iata": "AMS"
+    },
+    {
+        "name": "El Dorado International Airport",
+        "city": "Bogota",
+        "country": "Kolombia",
+        "iata": "BOG"
+    },
+    {
+      "name": "Los Angeles International Airport",
+      "city": "Los Angeles",
+      "country": "United States",
+      "iata": "LAX"
+    },
+    {
+      "name": "Heathrow Airport",
+      "city": "London",
+      "country": "United Kingdom",
+      "iata": "LHR"
+    },
+    {
+      "name": "Atatürk Airport",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "iata": "IST"
+    },
+    {
+      "name": "Charles de Gaulle Airport",
+      "city": "Paris",
+      "country": "France",
+      "iata": "CDG"
+    },
+    {
+      "name": "Tokyo Haneda Airport",
+      "city": "Tokyo",
+      "country": "Japan",
+      "iata": "HND"
+    },
+    {
+      "name": "John F. Kennedy International Airport",
+      "city": "New York",
+      "country": "United States",
+      "iata": "JFK"
+    },
+    {
+      "name": "Dubai International Airport",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "iata": "DXB"
+    },
+    {
+      "name": "Changi Airport",
+      "city": "Singapore",
+      "country": "Singapore",
+      "iata": "SIN"
+    },
+    {
+      "name": "Sydney Kingsford Smith Airport",
+      "city": "Sydney",
+      "country": "Australia",
+      "iata": "SYD"
+    },
+    {
+      "name": "Beijing Capital International Airport",
+      "city": "Beijing",
+      "country": "China",
+      "iata": "PEK"
+    }
+  ]
+  
